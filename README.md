@@ -3,13 +3,13 @@
 
 Data scientist and AI/ML practitioner building expertise in **Python, SQL, and Machine Learning** to solve complex problems. Certified in Data Analytics & AI (ALX), I thrive at the intersection of data, automation, and scalable solutions—proven by automating workflows that saved 100+ hours annually at Afriland First Bank.
 
-🔍 Current Focus:
+### 🔍 Current Focus:
 
 Advancing Machine Learning skills (@IIT Guwahati).
 
 Contributing to open-source data/ML projects.
 
-Exploring applications in NLP, computer vision, and predictive modeling.
+Exploring applications in **NLP, computer vision, and predictive modeling**.
 
 🌱 Let’s Collaborate On:
 
