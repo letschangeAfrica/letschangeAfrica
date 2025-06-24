@@ -29,13 +29,13 @@
 ---
 
 ### **🔥 Highlight Projects**  
-[![Healthcare ETL Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=your-data-username&repo=healthcare-etl&theme=dark)](https://github.com/your-data-username/healthcare-etl)  
+[![Healthcare ETL Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=healthcare-etl&theme=dark)](https://github.com/letschangeAfrica/healthcare-etl)  
 *Real-time patient data pipeline with Airflow + AWS*  
 
-[![NLP for Education](https://github-readme-stats.vercel.app/api/pin/?username=your-data-username&repo=nlp-edtech&theme=dark)](https://github.com/your-data-username/nlp-edtech)  
+[![NLP for Education](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=nlp-edtech&theme=dark)](https://github.com/letschangeAfrica/nlp-edtech)  
 *AI-powered study pattern analysis (Django + SpaCy)*  
 
-[![Banking Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=your-data-username&repo=banking-dwh&theme=dark)](https://github.com/your-data-username/banking-dwh)  
+[![Banking Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=banking-dwh&theme=dark)](https://github.com/letschangeAfrica/banking-dwh)  
 *SQL ETL pipelines mirroring Afriand Bank BI migration*  
 
 ---
