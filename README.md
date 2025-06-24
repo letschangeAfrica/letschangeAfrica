@@ -28,7 +28,7 @@
 ---
 
 ### **🔥 Highlight Projects**  
-[![Healthcare ETL Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=healthcare-etl&theme=dark)](https://github.com/letschangeAfrica/healthcare-etl)  
+[![Healthcare ETL Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=FOOD_ORDER&theme=dark)](https://github.com/letschangeAfrica/FOOD_ORDER)  
 *Real-time patient data pipeline with Airflow + AWS*  
 
 [![NLP for Education](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=nlp-edtech&theme=dark)](https://github.com/letschangeAfrica/nlp-edtech)  
