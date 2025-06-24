@@ -49,8 +49,8 @@
 
 ### **📊 GitHub Stats & Activity**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-data-username&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-data-username&theme=vision-friendly-dark&hide_border=true" alt="Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=letschangeAfrica&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letschangeAfrica&theme=vision-friendly-dark&hide_border=true" alt="Streak" width="48%"/>
 </p>
 
 ---
