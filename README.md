@@ -11,7 +11,7 @@
 
 ### **🚀 Mission-Driven Data Professional**  
 **Transforming lives through scalable data infrastructure and AI-driven insights.**  
-- 🔍 **ALX Data Science & Engineering** (2024) | Building pipelines with **PySpark, Airflow, AWS**.  
+- 🔍 **ALX Data Science & Engineering** (2024 - 2025) | Building pipelines with **PySpark, Airflow, AWS**.  
 - 📊 **Data Analytics Certified** | Power BI, SQL, Python (Pandas, Scikit-learn).  
 - 🏦 **Afriand First Bank Internship** | Migrated SAP BI, **boosted efficiency by 30%**.  
 - 🎓 **Harvard Aspire Leader** | Designing AI curricula to bridge tech gaps in Africa.  
