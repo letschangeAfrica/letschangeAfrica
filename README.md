@@ -1,25 +1,70 @@
-### 🚀 About Me
-**Aspiring Data Professional** | **ML & Analytics Enthusiast**
+<h1 align="center">🌍 Ismaël Ariel KAGOU MANGA</h1>
+<h3 align="center">Data Engineer | AI Solutions Architect | McKinsey Forward Fellow</h3>
 
-Data scientist and AI/ML practitioner building expertise in **Python, SQL, and Machine Learning** to solve complex problems. Certified in Data Analytics & AI (ALX), I thrive at the intersection of data, automation, and scalable solutions—proven by automating workflows that saved 100+ hours annually at Afriland First Bank.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ismaël-kagou-manga-205854270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ismaelkagou@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@your-handle"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-### 🔍 Current Focus:
+---
 
-Advancing Machine Learning skills (@IIT Guwahati).
+### **🚀 Mission-Driven Data Professional**  
+**Transforming lives through scalable data infrastructure and AI-driven insights.**  
+- 🔍 **ALX Data Science & Engineering** (2024) | Building pipelines with **PySpark, Airflow, AWS**.  
+- 📊 **Data Analytics Certified** | Power BI, SQL, Python (Pandas, Scikit-learn).  
+- 🏦 **Afriand First Bank Internship** | Migrated SAP BI, **boosted efficiency by 30%**.  
+- 🎓 **Harvard Aspire Leader** | Designing AI curricula to bridge tech gaps in Africa.  
 
-Contributing to open-source data/ML projects.
+---
 
-Exploring applications in **NLP, computer vision, and predictive modeling**.
+### **🛠️ Core Competencies**  
+| **Data Engineering**       | **Data Science**          | **Leadership**             |  
+|----------------------------|---------------------------|----------------------------|  
+| PySpark • Airflow • Kafka  | Python • SQL • Scikit-learn | Project Management       |  
+| AWS (S3, EC2, Lambda)      | Power BI • Tableau        | Stakeholder Communication |  
+| Docker • PostgreSQL        | NLP • Regression Models   | McKinsey Problem-Solving  |  
 
-🌱 Let’s Collaborate On:
+---
 
-Data engineering, ML pipelines, or analytics tools.
+### **🔥 Highlight Projects**  
+[![Healthcare ETL Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=your-data-username&repo=healthcare-etl&theme=dark)](https://github.com/your-data-username/healthcare-etl)  
+*Real-time patient data pipeline with Airflow + AWS*  
 
-Open-source projects that push tech boundaries.
+[![NLP for Education](https://github-readme-stats.vercel.app/api/pin/?username=your-data-username&repo=nlp-edtech&theme=dark)](https://github.com/your-data-username/nlp-edtech)  
+*AI-powered study pattern analysis (Django + SpaCy)*  
 
-📫 **Reach me:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/isma%C3%ABl-kagou-manga-205854270/) | ✉️ [Email](mailto:ismaelkagou@gmail.com)  
-<!---
-letschangeAfrica/letschangeAfrica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Banking Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=your-data-username&repo=banking-dwh&theme=dark)](https://github.com/your-data-username/banking-dwh)  
+*SQL ETL pipelines mirroring Afriand Bank BI migration*  
+
+---
+
+### **📌 ALX Program Highlights**  
+- **Data Engineering**: Built a production-grade data pipeline with PySpark and Airflow (Capstone Project).  
+- **Data Science**: Developed a predictive model for resource allocation in clinics (Power BI + Python).  
+- **Professional Foundations**: Led a squad in a data storytelling challenge (McKinsey Framework).  
+
+---
+
+### **📊 GitHub Stats & Activity**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-data-username&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-data-username&theme=vision-friendly-dark&hide_border=true" alt="Streak" width="48%"/>
+</p>
+
+---
+
+### **🎯 Vision**  
+> *"To democratize data-driven decision-making in Africa through open-source tools and scalable AI solutions."*  
+
+---
+
+### **📫 Let’s Collaborate!**  
+- 💬 Ask me about **data pipelines, AI for social impact, or breaking into tech**.  
+- 📫 **Email**: ismaelkagou@gmail.com | **LinkedIn**: [Let’s Connect](https://www.linkedin.com/in/ismaël-kagou-manga-205854270/)  
+- 🌟 **Fun Fact**: I’m fluent in French, English, and basic Chinese!  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-data-username&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
