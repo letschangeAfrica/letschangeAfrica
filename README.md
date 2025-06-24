@@ -34,7 +34,7 @@
 [![NLP for Education](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=JAVA-PROJECT&theme=dark)](https://github.com/letschangeAfrica/JAVA-PROJECT)  
 *AI-powered study pattern analysis (Django + SpaCy)*  
 
-[![Banking Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=banking-dwh&theme=dark)](https://github.com/letschangeAfrica/banking-dwh)  
+[![Banking Data Warehouse](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=printf&theme=dark)](https://github.com/letschangeAfrica/printf)  
 *SQL ETL pipelines mirroring Afriand Bank BI migration*  
 
 ---
