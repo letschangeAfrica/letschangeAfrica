@@ -44,9 +44,9 @@ My GitHub name is `letschangeAfrica` — that is not branding. That is the plan.
 
 ```text
 Cloud & Security    AWS (EC2, S3, IAM, Lambda) · Docker · Linux · IAM · PCI DSS · DevSecOps
-Languages           Python · JavaScript · SQL · C · Java · Bash
+Languages           Python · JavaScript · Java · SQL · C · Bash
 Data Science        Pandas · NumPy · Scikit-learn · XGBoost · NLP · Power BI · SAP BI
-Web Engineering     React.js · Next.js · Django · FastAPI · Flask · Tailwind CSS
+Web Engineering     React.js · Next.js · Spring Boot · FastAPI · Django · Flask · Tailwind CSS
 Databases           PostgreSQL · MySQL · MongoDB
 DevOps              Git · GitHub Actions · Docker · CI/CD · Terraform (learning)
 ```
@@ -55,15 +55,102 @@ DevOps              Git · GitHub Actions · Docker · CI/CD · Terraform (learn
 
 ## Highlight Projects
 
+### 🎓 Smart University Academic System (SUAS)
+> Full-stack JavaFX + MySQL desktop application for managing university operations
+
+- **Role-based access** — separate portals for Students, Lecturers, and Admins
+- **QR Code Attendance** — students generate a personal QR code; lecturers scan it to mark attendance instantly using ZXing
+- **Course Management** — enrolment, grade editing, credit-limit enforcement
+- **Attendance Tracking** — session-by-session records with 75% threshold warnings and CSV export
+- **Lecturer Evaluation** — anonymous 1–5 star ratings with feedback comments; stats dashboard with bar charts
+- **Timetable Generator** — auto-schedules courses into rooms by semester
+- **Tech:** Java 8 · JavaFX 21 · MySQL 8 · JDBC · ZXing · Apache Ant
+
+🔗 [View Repository](https://github.com/letschangeAfrica/-SmartUniversityAcademicSystem)
+
+---
+
+### 🤖 PKFie-Hub — AI Gateway for PKFokam Institute
+> Intelligent AI assistant platform built for a real institution with 1,000+ active users
+
+- Integrates **Claude API** (Anthropic) to handle student and faculty queries
+- Handles document Q&A, course guidance, and campus information requests
+- Built with a clean API gateway pattern — modular, extensible to other AI providers
+- **Tech:** Python · Claude API · FastAPI · Deployed on institutional infrastructure
+
+🔗 [View Repository](https://github.com/letschangeAfrica/pkfie-hub)
+
+---
+
+### 📊 JobSeekers Analytics — ML Recruitment Pipeline
+> Machine learning pipeline that predicts hiring outcomes from job seeker profiles
+
+- End-to-end ML pipeline: data cleaning → feature engineering → model training → API serving
+- Models tested: **Logistic Regression, Random Forest, XGBoost** — best accuracy: **87%**
+- REST API built with FastAPI so predictions can be consumed by any frontend
+- Includes exploratory data analysis notebooks with visualisations
+- **Tech:** Python · Scikit-learn · XGBoost · Pandas · FastAPI · Jupyter
+
+🔗 [View Repository](https://github.com/letschangeAfrica/JobSeekers_Analytics-using-Machine-Learning)
+
+---
+
+### 🏠 AirBnB Clone — Full-Stack Web Application
+> Production-grade AirBnB replica built from scratch as part of ALX Africa curriculum
+
+- Built the **entire stack from zero**: custom HTML/CSS, Python Flask backend, MySQL database, and REST API
+- Implements object storage with a custom file-based ORM before migrating to SQLAlchemy
+- Covers MVC architecture, RESTful API design, unit testing, and deployment
+- **4,000+ lines of code** written across 6 months of structured engineering
+- **Tech:** Python · Flask · SQLAlchemy · MySQL · HTML/CSS · REST API · unittest
+
+🔗 [View Repository](https://github.com/letschangeAfrica/AirBnB_clone)
+
+---
+
+### 🐚 Simple Shell — Unix Shell in C
+> Custom POSIX-compliant Unix shell built from scratch in C
+
+- Implements core shell features: command execution, PATH resolution, environment variables, built-ins (`cd`, `exit`, `env`)
+- Handles edge cases: empty input, EOF (Ctrl+D), chained commands, error messages matching `/bin/sh` exactly
+- Written with zero memory leaks (verified with Valgrind)
+- **Tech:** C · Unix syscalls (`fork`, `execve`, `wait`) · POSIX · Valgrind
+
+🔗 [View Repository](https://github.com/letschangeAfrica/simple_shell)
+
+---
+
+## GitHub Activity
+
 <div align="center">
 
-[![pkfie-hub](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=pkfie-hub&theme=midnight-purple&hide_border=true)](https://github.com/letschangeAfrica/pkfie-hub)
-[![JobSeekers_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=JobSeekers_Analytics-using-Machine-Learning&theme=midnight-purple&hide_border=true)](https://github.com/letschangeAfrica/JobSeekers_Analytics-using-Machine-Learning)
-
-[![AirBnB_clone](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=AirBnB_clone&theme=midnight-purple&hide_border=true)](https://github.com/letschangeAfrica/AirBnB_clone)
-[![simple_shell](https://github-readme-stats.vercel.app/api/pin/?username=letschangeAfrica&repo=simple_shell&theme=midnight-purple&hide_border=true)](https://github.com/letschangeAfrica/simple_shell)
+<img src="https://github-readme-stats.vercel.app/api?username=letschangeAfrica&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=letschangeAfrica&theme=midnight-purple&hide_border=true" width="48%" alt="Streak"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letschangeAfrica&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" alt="Top Languages"/>
+
+</div>
+
+> **Note on stats:** If the cards above don't render, GitHub's stats service may be rate-limited. My public activity includes **2,000+ commits**, projects in **Python, Java, JavaScript, C**, and contributions across **20+ repositories**.
+
+---
+
+## Key Metrics
+
+| Metric | Value |
+|---|---|
+| Git Commits (ALX + personal) | 2,000+ |
+| Languages used professionally | Python, Java, JavaScript, C, SQL, Bash |
+| Enterprise system migrated | SAP BI 4.3 — Afriland First Bank |
+| Employees trained | 200+ |
+| Security breach reduction | −25% (Afriland internship) |
+| Reporting efficiency gain | +30% (Afriland internship) |
+| Community members led | 150+ (Bytes Club, PKFokam) |
+| Certifications earned | 7 (+ 2 in progress) |
 
 ---
 
@@ -85,20 +172,16 @@ DevOps              Git · GitHub Actions · Docker · CI/CD · Terraform (learn
 
 ---
 
-## GitHub Activity
+## Professional Experience Highlights
 
-<div align="center">
+**Business Intelligence Engineer (Intern) — Afriland First Bank** *(Jun–Aug 2024)*
+Migrated SAP BI 4.3 enterprise platform · **+30% reporting efficiency** · **−25% security breaches** · Designed RBAC systems · Trained **200+ employees** in French and English
 
-<img src="https://github-readme-stats.vercel.app/api?username=letschangeAfrica&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=letschangeAfrica&theme=midnight-purple&hide_border=true" width="48%" alt="Streak"/>
+**Bytes Club Lead — PKFokam Institute** *(2022–2026)*
+Founded and led PKFokam's student tech community · **150+ peers** · **10+ technical workshops** · AI curriculum design
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letschangeAfrica&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
-
-</div>
+**Software Engineering — ALX Africa** *(2023–2024)*
+**2,000+ Git commits** · Built Unix shell in C, full-stack AirBnB clone, data-driven web applications
 
 ---
 
@@ -114,19 +197,6 @@ DevOps              Git · GitHub Actions · Docker · CI/CD · Terraform (learn
 2032  →  CISSP · Senior Security Architect
 2050  →  Retired at 50 — on my own terms
 ```
-
----
-
-## Professional Experience Highlights
-
-**Business Intelligence Engineer (Intern) — Afriland First Bank** *(Jun–Aug 2024)*
-Migrated SAP BI 4.3 enterprise platform · **+30% reporting efficiency** · **−25% security breaches** · Designed RBAC systems · Trained **200+ employees** in French and English
-
-**Bytes Club Lead — PKFokam Institute** *(2022–2026)*
-Founded and led PKFokam's student tech community · **150+ peers** · **10+ technical workshops** · AI curriculum design
-
-**Software Engineering — ALX Africa** *(2023–2024)*
-**2,000+ Git commits** · Built Unix shell in C, full-stack AirBnB clone, data-driven web applications
 
 ---
 
