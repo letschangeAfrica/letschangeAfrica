@@ -70,17 +70,6 @@ Data           PostgreSQL · MongoDB · Pandas · scikit-learn
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=letschangeAfrica&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letschangeAfrica&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
-
-</div>
-
----
-
 ## Currently
 
 - 🎓 Cybersecurity Engineering @ ESME Paris + MSc Financial Engineering @ WorldQuant
