@@ -4,7 +4,7 @@
 
 # Ismaël Ariel Kagou Manga
 
-**Cloud Security Engineer · Data Scientist · Full-Stack Developer**
+**Cloud Security Engineer | Application & API security, JWT/IAM, DevSecOps | Python · Django · AWS | ESME Paris**
 
 *Yaoundé, Cameroon → Paris, France → The World*
 
